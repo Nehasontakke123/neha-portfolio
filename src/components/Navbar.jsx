@@ -30,7 +30,7 @@ const Navbar = () => {
         {/* RESUME DOWNLOAD */}
         <li>
           <a
-            href="/Neha_Sontakke_Resume.pdf"
+            href="/Neha_MERN_Developer.pdf"
             download
             className="hire-btn"
             onClick={() => setOpen(false)}
