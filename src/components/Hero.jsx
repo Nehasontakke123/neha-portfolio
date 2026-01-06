@@ -75,7 +75,7 @@ const Hero = () => {
             View My Work
           </a>
 
-          <a href="/Neha_Sontakke_Resume.pdf" download className="btn resume">
+          <a href="NehaMERN_Developer.pdf" download className="btn resume">
             📄 Download Resume
           </a>
 
